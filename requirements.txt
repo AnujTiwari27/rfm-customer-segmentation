@@ -1,0 +1,17 @@
+# RFM Customer Segmentation — Requirements
+# Install with: pip install -r requirements.txt
+ 
+# Core data processing
+pandas
+numpy
+ 
+# Machine learning
+scikit-learn
+ 
+# Web application
+streamlit
+ 
+# Visualisation
+plotly
+matplotlib
+seaborn
